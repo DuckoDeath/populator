@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scenes/BuildBar/BuildBar.cs" type="Script" id=1]
+
+[node name="BuildBar" type="Node"]
+script = ExtResource( 1 )
